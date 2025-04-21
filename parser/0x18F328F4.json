@@ -1,0 +1,166 @@
+{
+    "data": [
+        {
+            "name": "err.LineResistanceTooLarge",
+            "bitStart": 0,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.MOSOverTemp",
+            "bitStart": 1,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.CellCountMismatch",
+            "bitStart": 2,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.CurrentSensorAbnormal",
+            "bitStart": 3,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.CellOvervoltage",
+            "bitStart": 4,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.BattOvervoltage",
+            "bitStart": 5,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.ChargeOvercurrent",
+            "bitStart": 6,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.ChargeShortCircuit",
+            "bitStart": 7,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.ChargeOvertemperature",
+            "bitStart": 8,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.ChargeUndertemperature",
+            "bitStart": 9,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.InternalCommunicationError",
+            "bitStart": 10,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.CellUndervoltage",
+            "bitStart": 11,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.BattUndervoltage",
+            "bitStart": 12,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.DischargeOvercurrent",
+            "bitStart": 13,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.DischargeShortCircuit",
+            "bitStart": 14,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.DischargeOvertemp",
+            "bitStart": 15,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.ChargeMOSFailure",
+            "bitStart": 16,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "err.DischargeMOSFailure",
+            "bitStart": 17,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        }
+    ]
+}

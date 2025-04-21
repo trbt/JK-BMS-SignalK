@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "name": "BMSRunTime",
+            "bitStart": 0,
+            "bitLength": 32,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": "s"
+        },
+        {
+            "name": "HeatCur",
+            "bitStart": 32,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.001,
+            "offset": 0,
+            "units": "A"
+        },
+        {
+            "name": "stateOfHealth",
+            "bitStart": 48,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": "%"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "name": "MaxCellTemp",
+            "bitStart": 0,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": -50,
+            "units": "C"
+        },
+        {
+            "name": "MaxCtNO",
+            "bitStart": 8,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "MinCellTemp",
+            "bitStart": 16,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": -50,
+            "units": "C"
+        },
+        {
+            "name": "MinCtNO",
+            "bitStart": 24,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "AvrgCellTemp",
+            "bitStart": 32,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": -50,
+            "units": "C"
+        }
+    ]
+}

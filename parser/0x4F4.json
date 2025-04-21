@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "MaxCellVolt",
+            "bitStart": 0,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.001,
+            "offset": 0,
+            "units": "V"
+        },
+        {
+            "name": "MaxCvNO",
+            "bitStart": 16,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "MinCellVolt",
+            "bitStart": 24,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.001,
+            "offset": 0,
+            "units": "V"
+        },
+        {
+            "name": "MinCvNO",
+            "bitStart": 40,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        }
+    ]
+}

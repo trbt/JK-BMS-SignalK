@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "name": "capacity.remaining",
+            "description": "Remaining capacity at current state of charge",
+            "bitStart": 0,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.1,
+            "offset": 0,
+            "units": "Ah"
+        },
+        {
+            "name": "capacity.full",
+            "description": "Full charge capacity",
+            "bitStart": 16,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.1,
+            "offset": 0,
+            "units": "Ah"
+        },
+        {
+            "name": "capacity.cycle",
+            "description": "Cumulative cycle capacity",
+            "bitStart": 32,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.1,
+            "offset": 0,
+            "units": "Ah"
+        },
+        {
+            "name": "CycleCount",            
+            "bitStart": 48,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        }
+    ]
+}

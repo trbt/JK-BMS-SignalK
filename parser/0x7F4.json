@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "name": "alarm.CellOverVolt",
+            "bitStart": 0,
+            "bitLength": 2,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "alarm.CellUnderVolt",
+            "bitStart": 2,
+            "bitLength": 2,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "alarm.CellVoltDiffTooLarge",
+            "bitStart": 8,
+            "bitLength": 2,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "alarm.DischargeOvercurrent",
+            "bitStart": 10,
+            "bitLength": 2,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "alarm.ChargeOvercurrent",
+            "bitStart": 12,
+            "bitLength": 2,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "alarm.TempTooHigh",
+            "bitStart": 14,
+            "bitLength": 2,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "alarm.TempTooLow",
+            "bitStart": 16,
+            "bitLength": 2,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "alarm.SocTooLow",
+            "bitStart": 20,
+            "bitLength": 2,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "alarm.InternalCommunicationFailure",
+            "bitStart": 28,
+            "bitLength": 2,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        }
+    ]
+}

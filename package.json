@@ -1,0 +1,21 @@
+{
+  "name": "jk-bms-signalk",
+  "version": "1.0.0",
+  "description": "JK BMS to SignalK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mati Ustav",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "socketcan": "^4.0.5"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "signalk-plugin-enabled-by-default": false,
+  "signalk": {
+    "displayName": "JK BMS CAN to SignalK"
+  }
+}

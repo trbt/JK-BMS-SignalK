@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "name": "CellTempMask",
+            "bitStart": 0,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "temperature.1",
+            "bitStart": 8,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": -50,
+            "units": "C"
+        },
+        {
+            "name": "temperature.2",
+            "bitStart": 16,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": -50,
+            "units": "C"
+        },
+        {
+            "name": "temperature.3",
+            "bitStart": 24,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": -50,
+            "units": "C"
+        },
+        {
+            "name": "temperature.4",
+            "bitStart": 32,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": -50,
+            "units": "C"
+        },
+        {
+            "name": "temperature.5",
+            "bitStart": 40,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": -50,
+            "units": "C"
+        }
+    ]
+}

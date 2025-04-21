@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "name": "ChgVol",
+            "description": "Charger Voltage",
+            "bitStart": 0,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.1,
+            "offset": 0,
+            "units": "V"
+        },
+        {
+            "name": "ChgCur",
+            "description": "Charger Current",
+            "bitStart": 16,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.1,
+            "offset": 0,
+            "units": "A"
+        },
+        {
+            "name": "ChgDevSw",
+            "description": "Charger connected?",
+            "bitStart": 32,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "ChgAndHeat",
+            "bitStart": 40,
+            "bitLength": 8,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "name": "ChgMosSta",
+            "bitStart": 0,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "DchgMosSta",
+            "bitStart": 1,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "BalanSta",
+            "bitStart": 2,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "HeatSta",
+            "bitStart": 3,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "ChgDevPlugSta",
+            "bitStart": 4,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        },
+        {
+            "name": "ACCSta",
+            "bitStart": 5,
+            "bitLength": 1,
+            "endian": "LSB",
+            "resolution": 1,
+            "offset": 0,
+            "units": ""
+        }
+    ]
+}

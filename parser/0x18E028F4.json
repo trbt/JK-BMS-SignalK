@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "cells.1.voltage",
+            "bitStart": 0,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.001,
+            "offset": 0,
+            "units": "V"
+        },
+        {
+            "name": "cells.2.voltage",
+            "bitStart": 16,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.001,
+            "offset": 0,
+            "units": "V"
+        },
+        {
+            "name": "cells.3.voltage",
+            "bitStart": 32,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.001,
+            "offset": 0,
+            "units": "V"
+        },
+        {
+            "name": "cells.4.voltage",
+            "bitStart": 48,
+            "bitLength": 16,
+            "endian": "LSB",
+            "resolution": 0.001,
+            "offset": 0,
+            "units": "V"
+        }
+    ]
+}
